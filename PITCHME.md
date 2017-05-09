@@ -1,4 +1,5 @@
-* Resource Management
+# Resource Management
+
 Automation in resource management (scheduling, reservation, placement, elasticity, dinamicity). Optimal usage of resources. Interoperability among Cloud Providers.
 
 ---
